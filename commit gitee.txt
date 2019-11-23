@@ -1,1 +1,3 @@
 gitee 提交内容
+
+Updates were rejected because the remote contains work that you do not have locally. 
